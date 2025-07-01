@@ -98,7 +98,8 @@ PRODIGY_SD_01/
 
 ## 📷 Screenshots 
 
-![Screenshot (35)](https://github.com/user-attachments/assets/bd55ab78-0c19-4d0a-a10c-5dd93f9241ac)
+
+![Screenshot (36)](https://github.com/user-attachments/assets/d8c0614f-976a-4491-8f89-0b32556546f5)
 
 
 ---

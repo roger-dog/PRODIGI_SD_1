@@ -99,8 +99,9 @@ PRODIGY_SD_01/
 ## 📷 Screenshots 
 
 
-![Temperature Converter Screenshot](screenshots/temp_converter_gui.png)
 
+
+![temp_converter_gui](https://github.com/user-attachments/assets/63d86d8d-abde-418f-a2ff-61b956e306cd)
 
 ---
 

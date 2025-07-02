@@ -100,8 +100,9 @@ PRODIGY_SD_01/
 
 
 
+![Screenshot (38) (1)](https://github.com/user-attachments/assets/def8f9af-3ff8-4f45-9df1-575f42c729ca)
 
-![temp_converter_gui](https://github.com/user-attachments/assets/63d86d8d-abde-418f-a2ff-61b956e306cd)
+
 
 ---
 
